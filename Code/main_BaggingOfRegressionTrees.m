@@ -16,7 +16,7 @@ clc;clear;close all;
 %% add path and parametre setting
 addpath F:\eeg_mayo_data\DATASET_MAYO\
 fs = 5000;
-fs_256 = 256;
+fs_256 = 1024;
 
 %% Start
 counter = 0;
